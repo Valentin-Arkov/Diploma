@@ -12,9 +12,9 @@
 
 https://profstandart.rosmintrud.ru/obshchiy-informatsionnyy-blok/natsionalnyy-reestr-professionalnykh-standartov/reestr-professionalnykh-standartov/index.php?ELEMENT_ID=121409
 
-Системный аналитик: первые шаги к профессии - бесплатный курс от Нетологии (20.10 - 01.11.2023):
+Системный аналитик: первые шаги к профессии - бесплатный курс от Нетологии:
 
 https://netology.ru/programs/salfree
 
-
+Текущий поток: 20.10 - 01.11.2023. Сертификат для тех, кто завершит обучение в срок.
 
