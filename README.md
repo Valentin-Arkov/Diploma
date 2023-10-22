@@ -17,3 +17,11 @@ https://netology.ru/programs/salfree
 
 Текущий поток: 20.10 - 01.11.2023. Сертификат для тех, кто завершит обучение в срок.
 
+## Видеоролики на канале автора
+Производственная практика: Первый раздел выпускной работы
+
+https://www.youtube.com/playlist?list=PLgkPUa9zaIkJdqZn-6IL7BC84X1peoh68
+
+CASE-технологии: Инструменты системного аналитика
+
+https://www.youtube.com/playlist?list=PLgkPUa9zaIkJ_YSDZoFdPS7gHYvP6ygp3
